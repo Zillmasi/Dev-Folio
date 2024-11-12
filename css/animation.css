@@ -1,0 +1,166 @@
+
+
+@keyframes animat {
+    0%{
+        content:'|';
+    }
+    2%{
+        content: 'D|';
+    }
+    4%{
+        content: 'De|';
+    }
+    6%{
+        content: 'Des|';
+    }
+    8%{
+        content: 'Desi|';
+    }
+    10%{
+        content: 'Desig|';
+    }
+    12%{
+        content: 'Design|';
+    }
+    14%{
+        content: 'Designe|';
+    }
+    16%{
+        content: 'Designer|';
+    }
+    18%{
+        content: 'Designe|';
+    }
+    20%{
+        content: 'Design|';
+    }
+    22%{
+        content: 'Desig|';
+    }
+    24%{
+        content: 'Desi|';
+    }
+    26%{
+        content: 'Des|';
+    }
+    28%{
+        content: 'De|';
+    }
+    30%{
+        content: 'D|';
+    }
+    32%{
+        content: 'De|';
+    }
+    34%{
+        content: 'Dev|';
+    }
+    36%{
+        content: 'Deve|';
+    }
+    38%{
+        content: 'Devel|';
+    }
+    40%{
+        content: 'Develo|';
+    }
+    42%{
+        content: 'Develop|';
+    }
+    44%{
+        content: 'Develope|';
+    }
+     46%{
+        content: 'Developer|';
+    }
+    48%{
+        content: 'Develope|';
+    }
+    50%{
+        content: 'Develop|';
+    }
+    52%{
+        content: 'Develo|';
+    }
+    54%{
+        content: 'Devel|';
+    }
+    56%{
+        content: 'Deve|';
+    }
+    58%{
+        content: 'Dev|';
+    }
+    60%{
+        content: 'De|';
+    } 
+    62%{
+        content: 'D|';
+    }      
+    64%{
+        content: '|';
+    }    
+    66%{
+        content: 'F|';
+    }    
+    68%{
+        content: 'Fr|';
+    }   
+    70%{
+        content: 'Fre|';
+    } 
+    72%{
+        content: 'Free|';
+    } 
+    74%{
+        content: 'Freel|';
+    }
+    76%{
+        content: 'Freela|';
+    }
+    78%{
+        content: 'Freelan|';
+    }
+    80%{
+        content: 'Freelanc|';
+    }
+    82%{
+        content: 'Freelance|';
+    }
+    84%{
+        content: 'Freelancer|';
+    }
+    86%{
+        content: 'Freelance|';
+    }
+    88%{
+        content: 'Freelanc|';
+    }
+    90%{
+        content: 'Freelan|';
+    }
+    92%{
+        content: 'Freela|';
+    }
+    94%{
+        content: 'Freel|';
+    }
+    96%{
+        content: 'Free|';
+    }
+    97%{
+        content: 'Fre|';
+    }
+    98%{
+        content: 'Fr|';
+    }
+    99%{
+        content: 'F|';
+    }
+    100%{
+        content: '|';
+    }      
+}
+
+
+
